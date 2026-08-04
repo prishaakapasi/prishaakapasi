@@ -1,0 +1,23 @@
+<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip">
+      <rect width="1200" height="280" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="280" fill="#2F4A48" />
+
+    <path d="M0,235 C200,200 350,255 600,225 C850,195 1000,250 1200,215 L1200,280 L0,280 Z"
+          fill="#8FA6A0" opacity="0.55" />
+    <path d="M0,255 C220,225 380,270 620,245 C860,220 1020,265 1200,240 L1200,280 L0,280 Z"
+          fill="#B7C4BE" opacity="0.5" />
+
+    <text x="600" y="120" text-anchor="middle"
+          font-family="Georgia, 'Playfair Display', serif" font-size="76"
+          letter-spacing="10" fill="#F3EAD6">PRISHAA</text>
+
+    <text x="600" y="165" text-anchor="middle"
+          font-family="Georgia, serif" font-style="italic" font-size="24"
+          letter-spacing="4" fill="#D9C6A0">BRINGING IDEAS TO LIFE</text>
+  </g>
+</svg>
