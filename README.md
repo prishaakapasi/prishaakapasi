@@ -4,9 +4,9 @@
 
 <br>
 
-ECE @ Princeton &nbsp;·&nbsp; incoming @ Nirvana Robotics &nbsp;·&nbsp; open to neurotech / robotics / AI roles
+ECE @ Princeton &nbsp;·&nbsp; neurotech + robot learning + design &nbsp;·&nbsp; open to internships/roles
 
-**[Portfolio](#)** &nbsp;·&nbsp; **[Resume](#)** &nbsp;·&nbsp; **[LinkedIn](#)** &nbsp;·&nbsp; **[Email](#)**
+**[Portfolio](https://prishaakapasi.com)** &nbsp;·&nbsp; **[Resume](https://docs.google.com/document/d/1Vhp0PKvgfB6aGosQKYjC8GIqCkpySuHWx7F_e8tlq_M/edit?usp=sharing)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/prishaa-kapasi-87b73825b)** &nbsp;·&nbsp; **[Email](mailto:pk5996@princeton.edu)**
 
 </div>
 
@@ -14,34 +14,22 @@ ECE @ Princeton &nbsp;·&nbsp; incoming @ Nirvana Robotics &nbsp;·&nbsp; open t
 
 ## about
 
-ECE sophomore at Princeton, minors in Neuroscience & Math. I work across neurotech, robot learning, and applied AI, and I design the interfaces around what I build. Freelance developer and designer since 16, with 10+ clients and 200+ shipped designs, including an app built for a Children's Hospital.
+ECE sophomore at Princeton (Neuroscience & Math minors), working across neurotech, robot learning, and applied AI. Currently a Product Engineer at Memora, researching at Princeton's HCI and Computational Memory Labs. YC Startup School 2026 (selected from 30,000+ applicants).
 
 <br>
 
-## what I've built
+## highlights
 
-**Neural motor decoder** (in progress)
-Training a decoder on the MC_Maze / MC_RTT neural datasets from the DANDI Archive using `nlb_tools`, working toward decoding motor intent to drive a robot arm.
-
-**SO-ARM101 robot arm**
-Built and calibrated a leader/follower robotic arm, recorded a pick-and-place dataset, fine-tuned SmolVLA on it, and deployed the trained policy on physical hardware, where it autonomously completes pick-and-place tasks.
-
-**Memora**
-Design lead and frontend engineer on a proactive AI memory desktop app built with Tauri and React.
-
-<br>
-
-## research
-
-- Princeton HCI Lab
-- Princeton Computational Memory Lab
-- Previously: ThinkNeuro, NSF AI Institute for Student AI Teaming
+- Built and deployed a **SO-ARM100 robot arm** running a fine-tuned SmolVLA vision-language-action policy
+- Designed and shipped **Paint Palz**, a HIPAA-aligned communication tool for pediatric patients, built for a Children's Hospital
+- 10+ freelance sites, 200+ brand/marketing assets designed since 2023
+- TSA National Finalist (Top 10/Top 5), HackPrinceton Runner-Up
 
 <br>
 
 ## skills
 
-`Python` &nbsp;`C++`&nbsp; `React` &nbsp;`TypeScript`&nbsp; `Tauri` &nbsp;`MuJoCo`&nbsp; `PyTorch` &nbsp;`Figma`&nbsp; `EEG/EMG signal processing` &nbsp;`robot learning`
+`Python` &nbsp;`React` / `React Native`&nbsp; `TypeScript`&nbsp; `PyTorch`&nbsp; `Next.js`&nbsp; `Figma`
 
 <br>
 
@@ -49,8 +37,6 @@ Design lead and frontend engineer on a proactive AI memory desktop app built wit
 
 <div align="center">
 
-exploring pediatric non-invasive BCIs as a possible founding direction
-
-**[Portfolio](#)** &nbsp;·&nbsp; **[Resume](#)** &nbsp;·&nbsp; **[LinkedIn](#)** &nbsp;·&nbsp; **[Email](#)**
+**[Portfolio](https://prishaakapasi.com)** &nbsp;·&nbsp; **[Resume](https://docs.google.com/document/d/1Vhp0PKvgfB6aGosQKYjC8GIqCkpySuHWx7F_e8tlq_M/edit?usp=sharing)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/prishaa-kapasi-87b73825b)** &nbsp;·&nbsp; **[Email](mailto:pk5996@princeton.edu)**
 
 </div>
