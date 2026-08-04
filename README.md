@@ -4,7 +4,7 @@
 
 <br>
 
-ECE @ Princeton &nbsp;·&nbsp; swe + neurotech + robot learning + design &nbsp;·&nbsp; open to internships/roles
+ECE @ Princeton &nbsp;·&nbsp; swe + neurotech + design &nbsp;·&nbsp; open to internships/roles
 
 **[Portfolio](https://prishaakapasi.com)** &nbsp;·&nbsp; **[Resume](https://docs.google.com/document/d/1Vhp0PKvgfB6aGosQKYjC8GIqCkpySuHWx7F_e8tlq_M/edit?usp=sharing)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/prishaa-kapasi-87b73825b)** &nbsp;·&nbsp; **[Email](mailto:pk5996@princeton.edu)**
 
