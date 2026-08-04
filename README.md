@@ -14,7 +14,7 @@ ECE @ Princeton &nbsp;·&nbsp; swe + neurotech + design &nbsp;·&nbsp; open to i
 
 ## about
 
-ECE sophomore at Princeton (Neuroscience & Math minors), working across neurotech, robot learning, and applied AI. Currently a Product Engineer at Memora, researching at Princeton's HCI and Computational Memory Labs. YC Startup School 2026 (selected from 30,000+ applicants).
+ECE sophomore at Princeton (Neuroscience & Math minors), working across neurotech, robot learning, and applied AI. Currently a Product Engineer at Memora, researching at Princeton's HCI and Computational Memory Labs.
 
 <br>
 
