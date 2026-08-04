@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner (1).svg" alt="Prishaa Kapasi" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=1200&color=2F4A48&center=true&vCenter=true&width=600&lines=PRISHAA;bringing+ideas+to+life" alt="Typing SVG" />
 
 <br>
 
