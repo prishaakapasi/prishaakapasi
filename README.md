@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=32&pause=1200&color=2F4A48&center=true&vCenter=true&width=600&lines=PRISHAA;bringing+ideas+to+life" alt="Typing SVG" />
+<img src="banner.svg" alt="Prishaa Kapasi" width="100%" />
 
 <br>
 
@@ -14,7 +14,7 @@ ECE @ Princeton &nbsp;·&nbsp; neurotech + robot learning + design &nbsp;·&nbsp
 
 ## about
 
-ECE sophomore at Princeton (Neuroscience & Math minors), working across neurotech, robot learning, and applied AI. Currently a Product Engineer at Memora, researching at Princeton's HCI and Computational Memory Labs.
+ECE sophomore at Princeton (Neuroscience & Math minors), working across neurotech, robot learning, and applied AI. Currently a Product Engineer at Memora, researching at Princeton's HCI and Computational Memory Labs. YC Startup School 2026 (selected from 30,000+ applicants).
 
 <br>
 
@@ -29,7 +29,7 @@ ECE sophomore at Princeton (Neuroscience & Math minors), working across neurotec
 
 ## skills
 
-`Java` &nbsp;`Python` &nbsp; `React` / `React Native`&nbsp; `TypeScript`&nbsp; `PyTorch`&nbsp; `Next.js`&nbsp; `Figma`
+`Python` &nbsp;`React` / `React Native`&nbsp; `TypeScript`&nbsp; `PyTorch`&nbsp; `Next.js`&nbsp; `Figma`
 
 <br>
 
