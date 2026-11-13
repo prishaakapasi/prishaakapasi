@@ -20,9 +20,8 @@ ECE at Princeton (Neuroscience & Math minors), working across neurotech, robot l
 
 ## highlights
 
-- Built and deployed a **SO-ARM100 robot arm** running a fine-tuned SmolVLA vision-language-action policy
-- Designed and shipped **Paint Palz**, a HIPAA-aligned communication tool for pediatric patients, built for a Children's Hospital
-- 10+ freelance sites, 200+ brand/marketing assets designed since 2023
+- Built an **SO-ARM101** robot arm and fine-tuned a SmolVLA vision-language-action policy for autonomous pick-and-place, then connected it to an EEG decoder so imagined hand movements trigger the arm
+- Researcher at Princeton's **Computational Memory Lab**: interpretability of LLMs on medical reasoning
 - TSA National Finalist (Top 10/Top 5), HackPrinceton Runner-Up
 
 <br>
